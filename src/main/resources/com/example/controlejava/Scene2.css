@@ -1,0 +1,18 @@
+.button {
+   -fx-padding: 5px 20px;
+   -fx-background-size: 400%;
+   -fx-background-radius: 30px;
+   -fx-border-radius: 30px;
+   -fx-effect: dropshadow(gaussian, rgba(0, 0, 0, 0.3), 10, 0, 0, 5);
+   -fx-cursor: hand;
+   -fx-margin-top: 10px;
+}
+
+.button:hover {
+   -fx-background-color: linear-gradient(to bottom, #ff1b1f, #ff2b5f, #ff3b9e, #ff4bde, #d259ff, #a869ff, #6f79ff);
+}
+.listView {
+    -fx-background-image: url('C:\Users\HP\Desktop\ControleJava\src\main\resources\com\example\controlejava\images\background.png');
+    -fx-background-size: cover;
+}
+

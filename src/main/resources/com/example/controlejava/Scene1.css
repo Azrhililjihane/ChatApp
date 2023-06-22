@@ -1,0 +1,21 @@
+.button {
+   -fx-padding: 5px 20px;
+   -fx-background-color: linear-gradient(to bottom right, #DDBAFF, #A4D8FF);
+   -fx-background-size: 400%;
+   -fx-background-radius: 30px;
+   -fx-border-radius: 30px;
+   -fx-effect: dropshadow(gaussian, rgba(0, 0, 0, 0.3), 10, 0, 0, 5);
+   -fx-cursor: hand;
+   -fx-margin-top: 10px;
+}
+.button:hover {
+    -fx-background-color: linear-gradient(to bottom right, #DDBAFF, #A4D8FF);
+    -fx-background-color: linear-gradient(#6f79ff, #a869ff, #d259ff, #ff4bde, #ff3b9e, #ff2b5f, #ff1b1f);
+}
+
+.anchorPane {
+    -fx-background-color: #8A2BE2;
+}
+
+
+
