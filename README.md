@@ -1,0 +1,1 @@
+Building a java application using javaFX and SceneBuilder. This app allows people to chat and text one each other and also join in a guessing game so as to have a break and have little fun while predicting the answer
